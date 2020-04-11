@@ -1,0 +1,108 @@
+.left-margin{
+    margin:0 .5em 0 0;
+}
+ 
+.right-button-margin{
+    margin: 0 0 1em 0;
+    overflow: hidden;
+}
+ 
+/* some changes in bootstrap modal */
+.modal-body {
+    padding: 20px 20px 0px 20px !important;
+    text-align: center !important;
+}
+ 
+.modal-footer{
+    text-align: center !important;
+}
+
+.flex {
+    display: flex;
+    flex-wrap: wrap;
+  }
+
+nav{
+    background-color: #333;
+}
+
+.nav-wrapper {
+overflow: hidden;
+font-family: Arial, Helvetica, sans-serif;
+font-size: 25px;
+font-style: bold;
+float: right;
+}
+.nav-wrapper a{
+    padding: 0 3em;
+}
+
+
+.show {
+display: block;
+}
+
+.sidebar {
+    float: left;
+    height: 100vh
+}
+
+.sidebar p{
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.sidebar a{
+    margin-bottom: 10px;
+}
+
+.buttons{
+    margin-top: 50px;
+}
+
+.total_rows{
+    font-size: 20pt;
+    font-weight: bold;
+}
+
+#center_logo{
+    margin-left: 30em;
+}
+
+.Search_Bar{
+    background-color: #ABB2B9;
+    width: 80%;
+    padding: 15px;
+}
+
+.Search_Head{
+    font-weight: bold;
+    font-size: 20px;
+    color: #F7F9F9;
+}
+
+#bar{
+    margin-top: 3em;
+}
+
+#search{
+    margin-bottom: 2em;
+}
+
+#submit{
+    margin-left: 3em;
+}
+
+#Head{
+    text-align: center;
+    font-size: 20pt;
+    font-weight: bold;
+}
+.content_card{
+    background-color: gray;
+
+}
+.nav_buttons{
+    float: right;
+    
+}
